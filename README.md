@@ -15,3 +15,8 @@
 * OpenAI-Whisper STT (Speech-to-Text) model
 * BLEU, F1, Precision and Recall evaluation metrics
 * F1, Precision and Recall got from Levenshtein distance (number of modifications required to transform one string to another)
+
+## Inferences
+* hf_tts_inferences - SpeechT5 inferences
+* pytorch_pretrained_inferences - Tacotron2 inferences
+* cusom_TTS/samples - Inferences of model trained from scratch
